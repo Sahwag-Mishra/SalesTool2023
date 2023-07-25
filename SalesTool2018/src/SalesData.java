@@ -6,6 +6,7 @@ public class SalesData
 	{
 		System.out.println("Hello happy sales people !");
 	    System.out.println("This app shows sales data");
+	    System.out.println("Woot! It pushed");
 	}
 	public static void main(String[]args)
 	{
